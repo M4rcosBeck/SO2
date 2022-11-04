@@ -1,0 +1,14 @@
+https://www.agiratech.com/install-requests-library-in-python
+https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10
+https://www.devmedia.com.br/rest-tutorial/28912
+https://aws.amazon.com/pt/what-is/restful-api/
+https://realpython.com/api-integration-in-python/
+https://hub.docker.com/_/python
+https://learn.microsoft.com/pt-br/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+https://learn.microsoft.com/en-us/windows/wsl/troubleshooting#error-0x80370102-the-virtual-machine-could-not-be-started-because-a-required-feature-is-not-installed
+https://docs.docker.com/desktop/install/windows-install/
+https://www.youtube.com/watch?v=SAorKEt5n0c&ab_channel=CloudTreinamentos
+https://hub.docker.com/r/broadinstitute/python-requests
+https://www.youtube.com/watch?v=SyvU4fOVpp0&ab_channel=MateusMuller
+https://www.youtube.com/watch?v=8HeGvqQxpZU&ab_channel=SatellaSoft
+https://www.youtube.com/watch?v=cdqbPfGkUu4&ab_channel=ITJobHacks
